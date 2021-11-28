@@ -26,8 +26,13 @@ class LandingScreen extends StatefulWidget {
 class _LandingScreenState extends State<LandingScreen> {
   List listGet = [[], [], [], []];
   List images = [
-    'assets/images/slider2.jpeg',
     'assets/images/slider1.jpeg',
+    'assets/images/slider2.jpeg',
+    'assets/images/slider3.jpg',
+    'assets/images/slider4.jpg',
+    'assets/images/slider5.jpg',
+    'assets/images/slider6.jpg',
+    'assets/images/slider7.jpg',
   ];
 
   List drw = ['Favorite', 'History', 'Setting', 'Contact Us', 'Share'];

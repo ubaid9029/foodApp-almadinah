@@ -3,7 +3,7 @@ List<dynamic> items = [
     'FROZEN': [
       [
         'SHAMI KEBAB (12 Pcs)',
-        300,
+        350,
         'Fully Preserved and Frozen CHICKEN Shami Kebab is one of the best non-vegetarian snacks to be served. You will not only love eating it, but also enjoy cooking this quick snack. Perfect for a dinner party during winters, it can be served with coriander or mint chutney.',
         [
           "assets/images/cshami.jpg", //card image
@@ -15,7 +15,7 @@ List<dynamic> items = [
       ],
       [
         'BEEF SHAMI KABAB(12 Pcs)',
-        350,
+        450,
         'Fully Preserved and Frozen BEEF Shami Kebab is one of the best non-vegetarian snacks to be served. You will not only love eating it, but also enjoy cooking this quick snack. Perfect for a dinner party during winters, it can be served with coriander or mint chutney',
         [
           "assets/images/bshami.jpg", //Card image
@@ -26,8 +26,8 @@ List<dynamic> items = [
         ]
       ],
       [
-        'CHICKEN SEEKH KABAB (12 Pcs)',
-        550,
+        'CHICKEN RESHMI KABAB (12 Pcs)',
+        850,
         "An Pakistani party's' snack platter is incomplete without this delicious appetizer dish of seekh kabab. Succulent kebabs made with minced chicken, marinated in variety of spices, grilled on a tandoor/oven and served with green chutney.",
         [
           "assets/images/ckabab.jpg", //Card image
@@ -39,7 +39,7 @@ List<dynamic> items = [
       ],
       [
         'BEEF SEEKH KABAB (12 Pcs)',
-        600,
+        800,
         "An Pakistani party's' snack platter is incomplete without this delicious appetizer dish of seekh kabab. Succulent kebabs made with minced lamb, marinated in variety of spices, grilled on a tandoor/oven and served with green chutney.",
         [
           "assets/images/bkabab.jpg", //Card image
@@ -51,7 +51,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN KOFTA (12 Pcs)',
-        300,
+        350,
         "Chicken Kofta is Pakistani style koftas made from tender boneless chicken mixed with fabulous spices. These are ready to cook & eat. Just prepare the masala and serve it hot like manchurian, either dry or with curry",
         [
           "assets/images/ckofta.jfif", //Card image
@@ -63,7 +63,7 @@ List<dynamic> items = [
       ],
       [
         'BEEF KOFTA (12 Pcs)',
-        350,
+        450,
         "BEEF Kofta is Pakistani style koftas made from tender boneless beef mixed with fabulous spices. These are ready to cook & eat. Just prepare the masala and serve it hot like manchurian, either dry or with curry",
         [
           "assets/images/bkofta.jpg", //Card image
@@ -86,7 +86,7 @@ List<dynamic> items = [
       ],
       [
         'GOLA KABAB CHICKEN (12 Pcs)',
-        500,
+        700,
         'Gola Kabab are melt-in-the-mouth, oval-shaped kababs that are seasoned with Pakistani spices and are incredibly juicy. They are traditionally grilled over charcoal but can be cooked in a pan too. ',
         [
           "assets/images/gola.jfif",
@@ -143,7 +143,7 @@ List<dynamic> items = [
     'DESI FOOD DEAL': [
       [
         'CHICKEN KARAHI (1KG)',
-        1200,
+        1250,
         'A bright and tempting chicken cooked in tomato gravy, served with shredded ginger and chilies.',
         [
           "assets/images/ckarahi.jpg",
@@ -154,7 +154,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN WHITE KARAHI (1KG)',
-        1300,
+        1350,
         'A bright and tempting chicken cooked in cream gravy with white pepper, served with shredded ginger and chilies.',
         [
           "assets/images/wkarahi.jpg",
@@ -164,7 +164,7 @@ List<dynamic> items = [
       ],
       [
         'MUTTON KARAHI(1KG)',
-        2200,
+        2250,
         'Mutton/Lamb Curry is such a rich dish! Eat it the next day and the flavors are even richer and more complex. Craving a spicy mutton curry today? Order Now! ',
         [
           "assets/images/mkarahi.jpg",
@@ -186,7 +186,7 @@ List<dynamic> items = [
       ],
       [
         'BEEF KARAHI (1KG)',
-        1500,
+        1600,
         'BEEF Curry is such a rich dish! Eat it the next day and the flavors are even richer and more complex. Craving a spicy mutton curry today? Order Now! ',
         [
           "assets/images/beef.jpg",
@@ -222,7 +222,7 @@ List<dynamic> items = [
     'FAST FOOD': [
       [
         'ZINGER BURGER',
-        200,
+        210,
         "The Zinger is a batter-coated, fried patty in a bun, with a slice of lettuce and mayo and cheese. Try Our Crispy Zinger",
         [
           "assets/images/zinger.jpg",
@@ -234,7 +234,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN BURGER',
-        150,
+        160,
         'Our Spicy and juicey Chicken Burger. Try It!',
         [
           "assets/images/cburger.jpg",
@@ -256,7 +256,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN SHAWARMA (Large)',
-        140,
+        150,
         'Special Chicken Shawarma. Order Now! ',
         [
           "assets/images/cshwrma.jpg",
@@ -319,7 +319,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN FAJITA PIZZA (Small)',
-        250,
+        320,
         "Small Pizza 7'inch",
         [
           "assets/images/f_pizza.png",
@@ -329,7 +329,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN TIKKA PIZZA (Small)',
-        250,
+        320,
         "Small Pizza 7'inch",
         [
           "assets/images/ct_pizza.png",
@@ -339,7 +339,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN SUPERME PIZZA (Small)',
-        250,
+        320,
         "Small Pizza 7'inch",
         [
           "assets/images/s_pizza.jpg",
@@ -349,7 +349,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN FAJITA PIZZA (medium)',
-        450,
+        550,
         "Medium Pizza 9'inch",
         [
           "assets/images/f_pizza.png",
@@ -359,7 +359,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN TIKKA PIZZA (Medium)',
-        450,
+        550,
         "Medium Pizza 9'inch",
         [
           "assets/images/ct_pizza.png",
@@ -369,7 +369,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN SUPERME PIZZA (Medium)',
-        450,
+        550,
         "Medium Pizza 9'inch",
         [
           "assets/images/s_pizza.jpg",
@@ -379,7 +379,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN FAJITA PIZZA (Large)',
-        750,
+        950,
         "Large Pizza 13'inch",
         [
           "assets/images/f_pizza.png",
@@ -389,7 +389,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN TIKKA PIZZA (Large)',
-        750,
+        950,
         "Medium Pizza 13'inch",
         [
           "assets/images/ct_pizza.png",
@@ -399,7 +399,7 @@ List<dynamic> items = [
       ],
       [
         'CHICKEN SUPERME PIZZA (Large)',
-        750,
+        950,
         "Large Pizza 13'inch",
         [
           "assets/images/s_pizza.jpg",

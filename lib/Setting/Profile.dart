@@ -1,7 +1,6 @@
 import 'package:food_home/login.dart';
 import 'package:food_home/signup.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
-
 import '../constants.dart';
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
@@ -54,7 +53,8 @@ class _ProfileGuestState extends State<ProfileGuest> {
           child: Center(
             child: Container(
               child: Column(
-                children: [                
+                children: [    
+                  Text("Amir"),            
                   SizedBox(
                     height: 20,
                   ),
@@ -302,3 +302,21 @@ class _ProfileUserState extends State<ProfileUser> {
     );
   }
 }
+
+
+
+// class ProfileGuest extends StatefulWidget {
+//   ProfileGuest({Key key}) : super(key: key);
+
+//   @override
+//   _ProfileGuestState createState() => _ProfileGuestState();
+// }
+
+// class _ProfileGuestState extends State<ProfileGuest> {
+//   @override
+//   Widget build(BuildContext context) {
+//     return Container(
+//        child: null,
+//     );
+//   }
+// }
